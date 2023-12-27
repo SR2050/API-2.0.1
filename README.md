@@ -11,7 +11,7 @@ cd API-2.0.1
 if you wannna see some program & projects to use this command in you Computer CMD shell
 cd project 
 and use ls command to see program & project list and run 
-cd shell.py   and edit prohram name like factorial.app
+cd shell.py   and edit prohram name like factorial.app in 28 number line // file_path = 'projects/calculetor.app'
 or 
 Run API 2.0.1 REPL
 python3 shell.py
