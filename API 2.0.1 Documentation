@@ -43,3 +43,38 @@ API 2.0.1>else
 API 2.0.1>  impress("Y greater Y True...")
 API 2.0.1>end
 Y greater Y True...
+########--------->For Loop Declaretion in API 
+API 2.0.1>for i = 1 to 10 then
+API 2.0.1>     impress("For loop 10 times ")
+API 2.0.1>end
+For loop 10 times 
+For loop 10 times 
+For loop 10 times 
+For loop 10 times 
+For loop 10 times
+For loop 10 times 
+For loop 10 times 
+For loop 10 times 
+For loop 10 times 
+For loop 10 times 
+########------->While loop Declaretion in API
+API 2.0.1>let i = 1
+API 2.0.1>while i<=2 then
+API 2.0.1>     impress("While Loop")
+API 2.0.1>     break
+API 2.0.1>end
+While Loop
+########--------->Nested IF,Else in API
+API 2.0.1>let x = 2 
+API 2.0.1>let y =3
+API 2.0.1> if(x == y) then 
+API 2.0.1>    if(x<y) then
+API 2.0.1>       impress("True")
+API 2.0.1>     else
+API 2.0.1>       impress("False")
+API 2.0.1>     end
+API 2.0.1>else
+API 2.0.1>   impress("False")
+True
+
+
