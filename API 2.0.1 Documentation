@@ -1,0 +1,45 @@
+###########################################################################################----->API 2.0.1<------#############################################################################
+
+
+###########------->Hello World !in API 2.0.1 Program
+API 2.0.1>display("Hello World !")
+Hello World !
+API 2.0.1>impress("Hello World !")
+Hello World!
+###########------->Variable Declaretion in API 2.0.1
+API 2.0.1>let variable = 2
+2
+##########-------->Input from User in API 2.0.1
+API 2.0.1>let string = input()
+"Hello Mr API Programmer "
+API 2.0.1>let string = scanf()
+"Hello Mr API Programmer "
+#########--------->Integer Input
+API 2.0.1>let ingeger = input_int()
+12
+API 2.0.1>let integer = scanf_int()
+12
+########--------->Function Declaretion in API 
+API 2.0.1>API add(a,b)
+API 2.0.1>   return a+b
+API 2.0.1>end
+API 2.0.1>let result=add(2,3)
+API 2.0.1>impress(result)
+5
+#######---------->Anonymus Function in API
+API 2.0.1>let hacked = api(key)
+API 2.0.1>      impress("This is anonymuse Function ")
+API 2.0.1>end
+APi 2.0.1>hacked(1)
+This is anonymuse Function
+########----------->If, Else If ,Else Diclarretion In API
+API 2.0.1>let x = 2
+API 2.0.1>let y = 3
+API 2.0.1>if(x == y) then
+API 2.0.1>    impress(" X = Y True...")
+API 2.0.1>else if(x>y) then
+API 2.0.1>   impress(" X not greater Y False ")
+API 2.0.1>else
+API 2.0.1>  impress("Y greater Y True...")
+API 2.0.1>end
+Y greater Y True...
